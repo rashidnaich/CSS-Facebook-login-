@@ -1,0 +1,47 @@
+*{
+    background-color: whitesmoke;
+}
+.ww {
+text-align: center;
+    padding: 15px;
+    
+}
+.ww img{
+text-align: center;
+width: 300px;
+padding: 50px
+
+}
+.rr{
+    
+    border: solid 1px;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+    color: #555;border: 1px solid #ccc;
+    padding: 40px;
+    margin:  auto; 
+    width: fit-content;
+    text-align: center;
+
+}
+input{
+    margin: 10px;
+    border-radius: 5px;
+    padding: 10px;
+    width: 300px;
+
+}
+button{
+    font-size: 20PX;
+    margin: 5px;
+    border-radius: 5px;
+    padding: 5px;
+    width: 300px;
+    color: white;
+    background-color:#1877F2
+
+}
+p{
+    font-size: 20px;
+}
